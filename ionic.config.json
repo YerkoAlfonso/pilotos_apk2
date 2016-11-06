@@ -1,0 +1,10 @@
+{
+  "name": "Pilotos",
+  "app_id": "21f0afab",
+  "proxies": [
+    {
+      "path": "/signUp",
+      "proxyUrl": "http://localhost:3000/signUp"
+    }
+  ]
+}
